@@ -1,0 +1,14 @@
+check,value
+raw_rows,20040
+rows_after_exact_dedup,20000
+exact_duplicate_rows_removed,40
+duplicate_session_ids_in_raw,40
+base_lead_rate_after_dedup,0.0439
+appointments,216
+appointment_set_missing_rate,0.9561
+scroll_depth_missing_rate,0.02015
+time_to_first_scroll_missing_rate,0.015
+near_instant_bounce_sessions_lt_1s,105
+near_instant_bounce_share,0.00525
+min_session_date,2026-02-02 00:04:45
+max_session_date,2026-03-28 23:58:50

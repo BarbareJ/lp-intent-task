@@ -1,0 +1,4 @@
+intent_tier,score_min,score_median,score_max,duration_median_sec,scroll_median_pct,clicks_median,sections_median,time_to_first_scroll_median_sec,returning_rate,form_start_rate,form_field_interactions_median
+High,0.05431103423330223,0.12166111757830858,0.8234796929623268,79.7,72.05,7.0,5.0,2.71,0.222,0.446,0.0
+Medium,0.011510279433091474,0.022548220061248753,0.054289401342983025,36.6,46.7,4.0,4.0,3.66,0.191,0.192,0.0
+Low,0.00011385327719974319,0.00340197770041639,0.011509772598124945,18.05,20.9,2.0,2.0,5.61,0.1617,0.0656,0.0
